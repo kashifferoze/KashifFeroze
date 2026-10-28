@@ -1,3 +1,4 @@
+![Kashif Feroze - Red Teaming](<https://raw.githubusercontent.com/KashifFeroze/KashifFeroze/main/Kashif%20Feroze%20Red%20Teaming%20Banner.png>)
 # Hey, I'm Kashif Feroze 👋
 
 ### 🎓 Cybersecurity Student | 🔴 Red Teaming Enthusiast | 🐍 Python Learner
