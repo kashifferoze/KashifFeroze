@@ -130,3 +130,9 @@ I believe in responsible security research. My learning and testing activities a
 ---
 
 🔴 *Aspiring Red Team Professional | Offensive Security | AI-Driven Cybersecurity*
+
+## 👀 Profile Visitors
+
+![Profile Views](https://komarev.com/ghpvc/?username=KashifFeroze&color=red&style=for-the-badge&label=PROFILE+VIEWS)
+
+
