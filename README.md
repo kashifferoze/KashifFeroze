@@ -32,29 +32,35 @@ My final-year project focuses on exploring how artificial intelligence and autom
 
 **Status:** In development 🚧
 
-## 🧰 Skills & Technologies
+## 🛠️ Technical Skills
 
-**Cybersecurity**
-- Red Teaming fundamentals
+### 🔴 Cybersecurity
+- Red Teaming Fundamentals
 - Ethical Hacking
+- Offensive Security
 - Reconnaissance
 - Vulnerability Assessment
-- Offensive Security concepts
-- Security lab practice
+- Security Testing in Authorized Labs
 
-**Programming & Scripting**
+### 💻 Programming & Scripting
 - Python
 - Bash
 
-**Operating Systems**
+### 🐧 Operating Systems
 - Kali Linux
 - Zorin OS
-- Linux command line
 
-**Tools & Workflow**
-- Git and GitHub
+### 🔧 Tools & Technologies
+- Git & GitHub
+- Linux Command Line
+- Networking Fundamentals
 - VS Code
-- Security testing tools in authorized environments
+
+### 🤖 Areas of Interest
+- AI-Driven Cybersecurity
+- Red Team Automation
+- Adversary Simulation
+- Security Tool Development
 
 ## 📚 Currently Learning
 
