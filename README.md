@@ -120,3 +120,13 @@ I believe in responsible security research. My learning and testing activities a
 **“Learn the attacker's mindset. Build the defender's advantage.”**
 
 ⭐ Thanks for visiting my profile!
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KashifFeroze&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KashifFeroze&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+🔴 *Aspiring Red Team Professional | Offensive Security | AI-Driven Cybersecurity*
