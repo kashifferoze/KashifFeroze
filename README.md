@@ -62,6 +62,28 @@ My final-year project focuses on exploring how artificial intelligence and autom
 - Adversary Simulation
 - Security Tool Development
 
+## 🧰 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+## 🔴 Cybersecurity Interests
+
+- Red Teaming & Adversary Simulation
+- Ethical Hacking & Offensive Security
+- Reconnaissance & Vulnerability Assessment
+- Python-Based Security Automation
+- AI-Driven Cybersecurity
+
+*Always learning, practicing responsibly, and improving my skills.*
+
 ## 📚 Currently Learning
 
 - Red Team methodologies and attack simulation
