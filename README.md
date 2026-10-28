@@ -79,13 +79,16 @@ My final-year project focuses on exploring how artificial intelligence and autom
 - Explore AI-assisted red teaming
 - Contribute to ethical cybersecurity research and open-source projects
 
+
 ## 🤝 Connect With Me
 
-- GitHub: [@KashifFeroze](https://github.com/KashifFeroze)
+- 🐙 **GitHub:** [@KashifFeroze](<https://github.com/KashifFeroze>)
+- 💼 **LinkedIn:www.linkedin.com/in/**
+- **kashifferoze3**
+- 📧 **Email: kashifferoze3@gmail.com**
 
-I'm always interested in connecting with cybersecurity students, red team enthusiasts, ethical hackers, and security researchers.
+I'm open to connecting with cybersecurity enthusiasts, Red Team learners, and professionals interested in offensive security and AI-driven cybersecurity.
 
----
 
 ### 🔐 Ethical Use
 
